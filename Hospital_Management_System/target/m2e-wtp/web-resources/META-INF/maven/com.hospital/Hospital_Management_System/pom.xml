@@ -8,6 +8,14 @@
   <name>Hospital_Management_System Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
+  
+  <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+<dependency>
+    <groupId>mysql</groupId>
+    <artifactId>mysql-connector-java</artifactId>
+    <version>8.0.33</version>
+</dependency>
+
    
   <!-- https://mvnrepository.com/artifact/javax.servlet/jstl -->
 <dependency>
